@@ -3,6 +3,7 @@
 Ce dossier contient l’ensemble des **fichiers de conception mécanique** du robot thermomètre réalisé dans le cadre du projet **Protorob**.
 
 La conception a été réalisée **entièrement sous Fusion 360**, puis exportée en fichiers **STL** pour l’impression 3D.
+Impression 3D en PLA sur P1S, 0,2mm d'épaisseur de couche, avec supports
 
 ---
 
@@ -21,8 +22,4 @@ La conception a été réalisée **entièrement sous Fusion 360**, puis exporté
   → Boîtier principal du robot thermomètre  
 - `plaque arrière.stl`  
   → Plaque arrière de fermeture et de maintien des composants
-
-  ---
-
-Impression 3D en PLA sur P1S, 0,2mm d'épaisseur de couche, avec supports
 
