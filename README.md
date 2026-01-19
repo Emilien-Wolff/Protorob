@@ -1,4 +1,4 @@
-# Protorob – Projet de prototypage des systèmes robotisés 🤖
+# Protorob – Robot thermomètre à affichage analogique 🤖
 > [!NOTE]
 > Projet réalisé dans le cadre de l’UE *Prototypage des systèmes robotisés* visant la conception et la réalisation complète d’un robot thermomètre asservi en position.
 
