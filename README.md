@@ -1,73 +1,37 @@
-# 🤖 Protorob – Robot Thermomètre Asservi
+# Protorob – Projet de prototypage des systèmes robotisés 🤖
+> [!NOTE]
+> Projet réalisé dans le cadre de l’UE *Prototypage des systèmes robotisés* visant la conception et la réalisation complète d’un robot thermomètre asservi en position.
 
-Projet réalisé dans le cadre de l’UE **Prototypage des systèmes robotisés** à **IMT Atlantique**.
+![alt text](URL_DE_TA_PHOTO_DU_PROJET)
 
-L’objectif du projet est de concevoir un **robot thermomètre** capable de mesurer une température et de l’afficher physiquement à l’aide d’une **aiguille asservie en position**, en mettant en œuvre un **régulateur PID discret implémenté par timer et interruption**.
+## Objectifs
 
----
+> Mesurer une température à l’aide d’un capteur dédié et l’afficher physiquement via une aiguille entraînée par un moteur
 
-## 🎯 Objectifs techniques
+> Mettre en œuvre un asservissement en position précis et stable par l’implémentation d’un régulateur PID discret sur microcontrôleur
 
-- Lire une mesure de température via **I2C**
-- Implémenter un **régulateur PID discret**
-- Maîtriser le **pas d’échantillonnage** via un **timer matériel**
-- Utiliser les **interruptions** Arduino
-- Concevoir une **structure mécanique complète**
-- Tester, régler et valider le comportement du système
 
----
+## Points abordés
 
-## 💻 Logiciel & outils
+- Gestion de projet sur un temps court (3 semaines) avec planification des tâches et travail en autonomie sur des créneaux dédiés  
+- Conception d’un système volontairement simple dans son principe, mais nécessitant une implémentation rigoureuse et propre  
+- Lecture de la température via un capteur **MPL3115A2** et communication **I2C**  
+- Implémentation d’un **régulateur PID monovariable** avec gestion du pas d’échantillonnage  
+- Codage du régulateur à l’aide d’un **timer matériel** et de **routines d’interruption** sous Arduino  
+- Conception mécanique complète du robot thermomètre, de l’aiguille et du support moteur  
+- Réalisation de la **CAO 3D intégrale sous Fusion 360**  
+- Tests, réglages expérimentaux et validation du comportement du système  
+- Communication et coordination au sein d’un groupe de 4 personnes
 
-- **Arduino IDE**
-- **Fusion 360** (CAO mécanique)
-- Langage **C / C++ embarqué**
-- Communication **I2C**
-- Timer + interruptions matérielles
 
----
+## FAQ
 
-## 🧮 Régulation
+#### Vous avez pu choisir votre sujet ?
+OUI, Protorob est une unité d’enseignement faisant partie de la formation d’ingénieur à IMT Atlantique. Le sujet du robot thermomètre était imposé, mais les choix techniques, l’architecture mécanique et l’implémentation logicielle étaient laissés libres au groupe.
 
-- Régulateur **PID monovariable**
-- Implémentation **discrète**
-- Gestion du pas d’échantillonnage par **timer**
-- Anti-emballement numérique
-- Réglage expérimental des gains
+#### Combien de temps ça vous a pris ?
 
-Le régulateur agit sur la commande moteur afin d’assurer :
-- Précision
-- Stabilité
-- Temps de réponse maîtrisé
+Le projet s’est déroulé sur **3 semaines**, avec des créneaux dédiés, depuis la phase de conception jusqu’aux tests et à la soutenance finale.
 
----
-
-## 🧱 Conception mécanique
-
-- CAO réalisée **entièrement sous Fusion 360**
-- Support moteur
-- Aiguille d’affichage
-- Cadran de température
-- Conception pensée pour l’assemblage et les tests
-
----
-
-## 🧪 Tests & validation
-
-- Tests unitaires des capteurs
-- Vérification du timing d’échantillonnage
-- Réglage progressif du PID
-- Validation de l’affichage de la température
-- Tests de stabilité et de répétabilité
-
----
-
-## 👥 Organisation du projet
-
-- Projet réalisé en **groupe de 4**
-- Travail en autonomie sur des **créneaux dédiés**
-- Itérations rapides entre :
-  - Conception
-  - Implémentation
-  - Tests
-
+## 🚀 Qui sommes-nous ?
+Nous sommes actuellement étudiants en école d’ingénieur à **IMT Atlantique**, et ce projet s’inscrit dans notre formation en **robotique, automatique et systèmes embarqués**.
