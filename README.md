@@ -24,6 +24,18 @@
 - Tests, réglages expérimentaux et validation du comportement du système  
 - Communication et coordination au sein d’un groupe de 4 personnes
 
+## Compétences mobilisées
+
+- Programmation embarquée (Arduino, C/C++)
+- Automatique : régulation PID discrète
+- Gestion du temps réel (timer, interruptions)
+- Prototypage mécanique et CAO 3D
+- Tests, réglages et validation expérimentale
+- Travail en équipe et gestion de projet court
+
+> [!NOTE] 📄
+> Le rapport complet du projet, détaillant la conception, l’implémentation et les choix techniques,
+> est disponible à la racine du dépôt (`main`).
 
 ## FAQ
 
