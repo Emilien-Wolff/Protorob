@@ -2,7 +2,7 @@
 > [!NOTE]
 > Projet réalisé dans le cadre de l’UE *Prototypage des systèmes robotisés* visant la conception et la réalisation complète d’un robot thermomètre asservi en position.
 
-![alt text](https://raw.githubusercontent.com/Emilien-Wolff/Protorob/refs/heads/main/Photos/Thermorob_led.jpeg)
+![alt text](https://raw.githubusercontent.com/Emilien-Wolff/Protorob/refs/heads/main/Photos/Thermorob_led_recadré.jpeg)
 
 
 ## Objectifs
