@@ -1,4 +1,4 @@
-# 🧱 Modèle 3D – Robot Thermomètre Protorob
+# Modèle 3D – Robot Thermomètre Protorob
 
 Ce dossier contient l’ensemble des **fichiers de conception mécanique** du robot thermomètre réalisé dans le cadre du projet **Protorob**.
 
@@ -24,5 +24,5 @@ La conception a été réalisée **entièrement sous Fusion 360**, puis exporté
 
   ---
 
-Impression 3D en PLA sur P1S, 0,2mm d'épaisseur de couche, avec supports, attention à bien choisir la couleur du couvercle supérieur
+Impression 3D en PLA sur P1S, 0,2mm d'épaisseur de couche, avec supports
 
