@@ -20,5 +20,9 @@ La conception a été réalisée **entièrement sous Fusion 360**, puis exporté
 - `boitier V3.stl`  
   → Boîtier principal du robot thermomètre  
 - `plaque arrière.stl`  
-  → Plaque arrière de fermeture et de maintien des composants  
+  → Plaque arrière de fermeture et de maintien des composants
+
+  ---
+
+Impression 3D en PLA sur P1S, 0,2mm d'épaisseur de couche, avec supports, attention à bien choisir la couleur du couvercle supérieur
 
