@@ -2,7 +2,7 @@
 > [!NOTE]
 > Projet réalisé dans le cadre de l’UE *Prototypage des systèmes robotisés* visant la conception et la réalisation complète d’un robot thermomètre asservi en position.
 
-![alt text](URL_DE_TA_PHOTO_DU_PROJET)
+![alt text](https://raw.githubusercontent.com/Emilien-Wolff/Minuto/refs/heads/main/Photos/IMG_6275.JPG)
 
 ## Objectifs
 
