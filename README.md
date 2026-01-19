@@ -27,12 +27,12 @@
 
 ## FAQ
 
-#### Vous avez pu choisir votre sujet ?
-OUI, Protorob est une unité d’enseignement faisant partie de la formation d’ingénieur à IMT Atlantique. Le sujet du robot thermomètre était imposé, mais les choix techniques, l’architecture mécanique et l’implémentation logicielle étaient laissés libres au groupe.
+#### Quel est l'intérêt de ce robot ?
+Evidemment, ce type de mesure de température n'est pas voire pas du tout le plus répandu, mais il s'avère que le projet était l'occasion à tout le monde de découvrir le prototypage à travers 3 fondamentaux : l'électronique et la programmation, la conception mécanique et le contrôle commande. Nous nous sommes appropriés le sujet en faisant notre propre version du robot.
 
 #### Combien de temps ça vous a pris ?
 
 Le projet s’est déroulé sur **3 semaines**, avec des créneaux dédiés, depuis la phase de conception jusqu’aux tests et à la soutenance finale.
 
 ## 🚀 Qui sommes-nous ?
-Nous sommes actuellement étudiants en école d’ingénieur à **IMT Atlantique**, et ce projet s’inscrit dans notre formation en **robotique, automatique et systèmes embarqués**.
+Nous sommes actuellement étudiants en école d’ingénieur à **IMT Atlantique**, et ce projet s’inscrit dans notre formation en **automatique et systèmes cyber-physiques**.
