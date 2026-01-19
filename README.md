@@ -33,9 +33,7 @@
 - Tests, réglages et validation expérimentale
 - Travail en équipe et gestion de projet court
 
-> [!NOTE] 📄
-> Le rapport complet du projet, détaillant la conception, l’implémentation et les choix techniques,
-> est disponible à la racine du dépôt (`main`).
+*📄 Le rapport complet du projet, détaillant la conception, l’implémentation et les choix techniques, est disponible à la racine du dépôt (`main`).*
 
 ## FAQ
 
