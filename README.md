@@ -45,4 +45,4 @@ Evidemment, ce type de mesure de température n'est pas voire pas du tout le plu
 Le projet s’est déroulé sur **3 semaines**, avec des créneaux dédiés, depuis la phase de conception jusqu’aux tests et à la soutenance finale.
 
 ## 🚀 Qui sommes-nous ?
-Nous sommes actuellement étudiants en école d’ingénieur à **IMT Atlantique**, et ce projet s’inscrit dans notre formation en **automatique et systèmes cyber-physiques**.
+Nous sommes actuellement étudiants en école d’ingénieur à **IMT Atlantique**, et ce projet s’inscrit dans notre formation en **automatique et systèmes cyber-physiques**. Merci à Loïc Fournier, Grégory Boursin et Cédric Léger pour le travail.
